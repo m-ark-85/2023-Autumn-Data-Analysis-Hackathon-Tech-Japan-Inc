@@ -1,0 +1,312 @@
+EmpID,Salary,HirePosition,State,Sex,Hiredate,Termdate,TermReason,EmploymentStatus,CurrentStatus,Department,RecruitmentSource,New Company,New Position,New Department
+10013,64397,Area Sales Manager,ND,M,01-Sep,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10268,67176,Production Technician II,MA,M,Jun-25,Aug-30,military,Voluntarily Terminated,0,Production,Other,NA,NA,NA
+10164,47001,Production Technician I,MA,M,11-May,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10088,64991,Production Technician I,MA,F,01-Jul,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10301,48513,Production Technician I,MA,F,09-Feb,Sep-29,Another position,Voluntarily Terminated,0,Production,Google Search,Apple,Quality Control Technician,IT/IS
+10238,63000,Accountant I,MA,F,Oct-27,null,N/A-StillEmployed,Active,1,Admin Offices,Diversity Job Fair,,,
+10260,46428,Production Technician I,MA,M,01-May,Jul-30,relocation out of area,Voluntarily Terminated,0,Production,Google Search,Flipkart,Operations Technician,IT/IS
+10080,99351,Sr. Accountant,MA,F,01-May,null,N/A-StillEmployed,Active,1,Admin Offices,Other,,,
+10019,170500,Director of Operations,MA,M,01-May,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10158,63682,Production Manager,MA,F,01-Aug,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10221,60754,Production Technician I,MA,F,Apr-27,04-Jan,Another position,Voluntarily Terminated,0,Production,Diversity Job Fair,Apple,Production Supervisor,Production
+10114,47837,Production Technician I,MA,F,07-Jun,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10095,63878,Production Technician II,MA,F,Oct-26,04-Aug,maternity leave - did not return,Voluntarily Terminated,0,Production,CareerBuilder,NA,NA,NA
+10010,220450,CIO,MA,F,04-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10211,62514,Production Technician I,MA,F,Apr-26,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10300,68898,Production Technician II,MA,M,Apr-26,May-30,career change,Voluntarily Terminated,0,Production,Diversity Job Fair,Microsoft,Prompt Engineer,Software Engineering
+10273,65707,IT Support,CT,F,05-Jan,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10282,68051,Production Manager,MA,M,Jul-20,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10233,57975,Production Technician II,MA,M,Aug-30,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10269,59369,Production Technician II,MA,M,Aug-30,Sep-26,career change,Voluntarily Terminated,0,Production,Indeed,Snowflake,Data Engineer,IT/IS
+10241,60120,Area Sales Manager,MT,F,Sep-27,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10130,74669,Production Manager,MA,F,Oct-25,May-18,Another position,Voluntarily Terminated,0,Production,Indeed,Flipcart,Quality Assurance Manager,Admin Offices
+10285,61422,Production Technician I,MA,F,01-Oct,May-17,attendance,Terminated for Cause,-1,Production,Indeed,Flipkart,Production Supervisor,Production
+10072,58371,Production Technician I,MA,M,01-Oct,May-15,hours,Voluntarily Terminated,0,Production,LinkedIn,Intel,Quality consultant,Production
+10252,54670,Production Technician I,MA,F,01-Oct,01-Dec,Another position,Voluntarily Terminated,0,Production,Diversity Job Fair,Intel,Production Supervisor,Production
+10267,57815,Production Technician II,MA,F,01-Oct,04-Apr,career change,Voluntarily Terminated,0,Production,Google Search,Apple,Data Scientist,IT/IS
+10286,53564,Production Technician I,MA,M,01-Oct,Dec-28,career change,Voluntarily Terminated,0,Production,Google Search,Cisco,Business Analyst,IT/IS
+10278,47961,Production Technician I,MA,F,01-Oct,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10270,74813,Production Technician II,MA,F,01-Oct,07-Feb,unhappy,Voluntarily Terminated,0,Production,LinkedIn,PWC,Product Technician 3,IT/IS
+10092,82758,Production Manager,MA,M,01-Oct,12-Dec,attendance,Terminated for Cause,-1,Production,Employee Referral,Dell Technologies,Director Of Operations,Admin Offices
+10138,61154,Production Technician I,MA,F,01-Oct,04-Jan,unhappy,Voluntarily Terminated,0,Production,CareerBuilder,Twilio,Quality Control Technician,IT/IS
+10006,74241,Area Sales Manager,CA,F,01-Oct,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10075,68099,Production Technician II,MA,F,01-Oct,Jun-18,hours,Voluntarily Terminated,0,Production,CareerBuilder,HData Systems,Product Technician 2,IT/IS
+10176,63973,Production Technician I,MA,M,01-Oct,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10047,50428,Production Technician I,MA,M,01-Oct,Jan-26,attendance,Voluntarily Terminated,0,Production,Indeed,Flipkart,Production Team Lead,Production
+10204,58062,Production Technician I,MA,F,01-Oct,May-14,Another position,Voluntarily Terminated,0,Production,Google Search,Cisco,Operations Technician,IT/IS
+10008,51777,IT Support,CT,F,Jan-21,null,N/A-StillEmployed,Active,1,IT/IS,Diversity Job Fair,,,
+10148,63515,Production Technician I,MA,F,02-Jul,01-Dec,Another position,Voluntarily Terminated,0,Production,Google Search,Flipkart,Production Associate,Production
+10131,83363,Software Engineer,MA,M,Feb-21,Aug-15,career change,Voluntarily Terminated,0,Software Engineering,Diversity Job Fair,Adobe,Prompt Engineer,Software Engineering
+10061,57834,Production Technician I,MA,M,Feb-21,08-Apr,attendance,Terminated for Cause,-1,Production,Google Search,PWC,Quality consultant,Production
+10160,68182,Production Technician II,MA,F,Feb-21,04-Jan,unhappy,Voluntarily Terminated,0,Production,Google Search,Intel,Engineering Technician,IT/IS
+10289,83082,Production Manager,MA,M,Feb-21,Sep-24,unhappy,Voluntarily Terminated,0,Production,Indeed,Flipcart,Quality Assurance Manager,Admin Offices
+10059,63813,Production Technician I,MA,F,Feb-21,01-Nov,more money,Voluntarily Terminated,0,Production,CareerBuilder,Adobe,Production Associate,Production
+10165,71339,Area Sales Manager,NY,M,03-Jul,null,N/A-StillEmployed,Active,1,Sales,Diversity Job Fair,,,
+10100,58275,Production Technician II,MA,F,04-Apr,11-Apr,more money,Voluntarily Terminated,0,Production,Google Search,Apple,Data Engineer,IT/IS
+10065,53180,Production Technician I,MA,M,04-Apr,Aug-13,Another position,Voluntarily Terminated,0,Production,Google Search,Apple,Production Supervisor,Production
+10294,66441,Production Technician II,MA,F,04-Apr,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10181,62162,Production Technician II,MA,M,04-Apr,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10055,59026,Production Technician I,MA,F,04-Apr,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10064,60070,Production Technician I,MA,F,04-Apr,06-Jun,military,Voluntarily Terminated,0,Production,Google Search,Adobe,Quality consultant,Production
+10163,55965,Production Technician II,MA,F,04-Apr,01-Sep,career change,Voluntarily Terminated,0,Production,Google Search,Intel,AI Engineer,IT/IS
+10015,178000,IT Director,MA,M,Apr-15,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10290,99280,Software Engineer,MA,F,05-Feb,06-May,attendance,Terminated for Cause,-1,Software Engineering,Indeed,Cisco,SDE 2,Software Engineering
+10171,45998,Production Technician I,MA,F,May-16,Oct-25,medical issues,Voluntarily Terminated,0,Production,LinkedIn,Twilio,Operations Technician,IT/IS
+10187,46799,Production Technician I,MA,F,May-16,06-Apr,Another position,Voluntarily Terminated,0,Production,Google Search,Twilio,Engineering Technician,IT/IS
+10070,55722,Production Technician I,MA,M,May-16,06-Aug,unhappy,Voluntarily Terminated,0,Production,Indeed,Twilio,Engineering Technician,IT/IS
+10257,53171,Production Technician I,MA,F,May-16,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10048,55140,Production Technician I,MA,M,May-16,09-Jul,unhappy,Voluntarily Terminated,0,Production,Website,Cisco,Production Team Lead,Production
+10146,72202,Production Technician II,MA,F,May-16,07-Aug,Another position,Voluntarily Terminated,0,Production,Google Search,Twilio,Product Technician 3,IT/IS
+10058,45115,Production Technician I,MA,M,May-16,Jan-15,retiring,Voluntarily Terminated,0,Production,LinkedIn,Cisco,Quality Control Technician,IT/IS
+10275,64066,Production Technician II,MA,F,May-16,01-Jul,unhappy,Voluntarily Terminated,0,Production,Google Search,NA,NA,NA
+10093,72609,Production Technician II,MA,M,May-16,Jun-24,hours,Voluntarily Terminated,0,Production,Google Search,Snowflake,Product Technician 2,IT/IS
+10032,57954,Production Technician II,MA,F,May-16,02-Apr,more money,Voluntarily Terminated,0,Production,Indeed,Apple,Data Scientist ,IT/IS
+10053,54132,Production Technician I,MA,F,May-31,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10119,66593,IT Support,MA,F,06-Oct,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10240,64786,Production Technician I,MA,F,Jun-27,Nov-15,relocation out of area,Voluntarily Terminated,0,Production,Indeed,Intel,Production Team Lead,Production
+10196,64955,Production Technician II,MA,F,07-May,Sep-24,hours,Voluntarily Terminated,0,Production,LinkedIn,Adobe,Data Engineer,IT/IS
+10224,55578,Operations Technician,MA,M,07-May,02-Aug,Another position,Voluntarily Terminated,0,Production,Indeed,Google,Operations Technician,IT/IS
+10009,60724,Production Technician II,MA,F,07-May,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10141,48413,Production Technician I,MA,F,07-May,09-May,return to school,Voluntarily Terminated,0,Production,Indeed,Intel,Production Supervisor,Production
+10050,64724,Production Technician I,MA,M,07-May,Nov-30,more money,Voluntarily Terminated,0,Production,Google Search,Apple,Operations Technician,IT/IS
+10297,60270,Production Technician II,MA,F,07-May,Sep-15,unhappy,Voluntarily Terminated,0,Production,CareerBuilder,Amazon,Product Technician 3,IT/IS
+10186,52624,Production Technician I,MA,F,07-May,Sep-26,unhappy,Voluntarily Terminated,0,Production,Indeed,Flipkart,Engineering Technician,IT/IS
+10073,68407,Production Technician II,MA,F,07-May,Aug-19,Another position,Voluntarily Terminated,0,Production,LinkedIn,Cisco,Product Technician 3,IT/IS
+10026,62506,Production Technician I,MA,M,07-May,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10205,57859,Area Sales Manager,AZ,F,07-May,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10069,50825,Production Technician I,MA,F,07-Nov,09-Jun,return to school,Voluntarily Terminated,0,Production,Google Search,Intel,Engineering Technician,IT/IS
+10031,59892,Production Technician I,MA,M,07-Nov,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10292,59144,Production Technician I,MA,M,07-Nov,Sep-23,performance,Terminated for Cause,-1,Production,LinkedIn,Cisco,Engineering Technician,IT/IS
+10144,88976,Production Manager,MA,M,08-Jan,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10195,63478,Production Technician II,MA,F,Aug-15,04-Jul,relocation out of area,Voluntarily Terminated,0,Production,Indeed,NA,NA,NA
+10188,74326,Area Sales Manager,VA,F,Aug-15,08-Feb,Another position,Voluntarily Terminated,0,Sales,Google Search,Eleks,Sales Manager,Sales
+10150,77692,Software Engineering Manager,MA,M,Aug-15,null,N/A-StillEmployed,Active,1,Software Engineering,Google Search,,,
+10298,55800,Production Technician II,MA,M,Aug-15,09-Apr,unhappy,Voluntarily Terminated,0,Production,LinkedIn,Twilio,Data Scientist,IT/IS
+10258,67251,Area Sales Manager,CT,M,09-Jun,null,N/A-StillEmployed,Active,1,Sales,CareerBuilder,,,
+10215,50470,Production Technician I,MA,M,Sep-26,04-Apr,return to school,Voluntarily Terminated,0,Production,Diversity Job Fair,Adobe,Engineering Technician,IT/IS
+10230,64971,Production Technician II,MA,F,Sep-26,Oct-22,career change,Voluntarily Terminated,0,Production,Google Search,Flipkart,SDE 1,Software Engineering
+10087,63676,Production Technician I,MA,F,Sep-26,Aug-19,return to school,Voluntarily Terminated,0,Production,CareerBuilder,Dell Technologies,Production Supervisor,Production
+10274,80512,Production Manager,MA,F,Sep-26,01-Feb,Another position,Voluntarily Terminated,0,Production,Diversity Job Fair,Amazon,Operations Manager,Admin Offices
+10153,55000,Administrative Assistant,MA,F,Sep-26,Sep-25,career change,Voluntarily Terminated,0,Admin Offices,Diversity Job Fair,PWC,Business Analyst,IT/IS
+10170,45433,Production Technician I,MA,F,Sep-26,01-Sep,more money,Voluntarily Terminated,0,Production,Google Search,Adobe,Production Supervisor,Production
+10166,54005,Production Technician I,MA,F,Sep-26,06-Apr,more money,Voluntarily Terminated,0,Production,Google Search,Twilio,Quality Control Technician,IT/IS
+10022,49773,Production Technician I,MA,F,Sep-26,02-Aug,gross misconduct,Terminated for Cause,-1,Production,Google Search,PWC,Production Team Lead,Production
+10152,61729,Production Technician I,MA,M,Sep-26,04-Jul,more money,Voluntarily Terminated,0,Production,Indeed,Intel,Quality consultant,Production
+10168,64816,Production Technician I,MA,F,10-Mar,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10189,57748,Production Technician I,MA,F,11-Jul,May-17,military,Voluntarily Terminated,0,Production,Google Search,Flipkart,Production Team Lead,Production
+10034,46837,Production Technician I,MA,M,11-Jul,Apr-29,more money,Voluntarily Terminated,0,Production,CareerBuilder,Dell Technologies,Operations Technician,IT/IS
+10122,51505,Production Technician I,MA,F,11-Jul,Nov-15,hours,Voluntarily Terminated,0,Production,Diversity Job Fair,Intel,Quality consultant,Production
+10004,47434,Production Technician I,MA,F,11-Jul,Nov-14,Another position,Voluntarily Terminated,0,Production,Diversity Job Fair,Adobe,Production Associate,Production
+10213,58207,Production Technician II,MA,M,11-Jul,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10244,68999,Sales Manager,PA,F,11-Jul,Apr-24,maternity leave - did not return,Voluntarily Terminated,0,Sales,Google Search,NA,NA,NA
+10005,108987,Software Engineer,MA,M,11-Jul,09-Jul,Another position,Voluntarily Terminated,0,Software Engineering,Diversity Job Fair,Cisco,SDE2,Software Engineering
+10143,56294,Production Technician II,MA,M,11-Jul,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10011,46738,Production Technician I,MA,F,Nov-28,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10125,54828,Production Technician I,MA,F,Nov-28,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10097,52177,Production Technician I,MA,F,01-Sep,Dec-15,retiring,Voluntarily Terminated,0,Production,CareerBuilder,Apple,Quality consultant,Production
+10222,148999,IT Manager - DB,MA,M,01-Sep,11-Apr,hours,Voluntarily Terminated,0,IT/IS,Diversity Job Fair,PWC,Technical Consultant,IT/IS
+10124,61844,Area Sales Manager,KY,F,01-Sep,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10049,58530,Production Technician I,MA,F,01-Sep,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10002,57568,Production Technician I,MA,F,01-Sep,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10223,72106,Production Technician II,MA,M,01-Sep,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10155,101199,Software Engineer,MA,F,01-Sep,null,N/A-StillEmployed,Active,1,Software Engineering,CareerBuilder,,,
+10264,59728,Production Technician I,MA,F,01-Sep,Jun-27,relocation out of area,Voluntarily Terminated,0,Production,Diversity Job Fair,Adobe,Production Associate,Production
+10288,157000,IT Manager - Infra,MA,M,Feb-15,null,N/A-StillEmployed,Active,1,IT/IS,Diversity Job Fair,,,
+10304,59231,Area Sales Manager,WA,F,Feb-20,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10302,64021,Production Technician I,MA,F,Feb-20,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10248,55425,Production Technician I,MA,F,Feb-20,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10265,58709,Production Technician I,MA,M,Feb-20,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10107,63763,Production Technician II,MA,F,03-May,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10253,55875,Area Sales Manager,ME,M,03-May,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10109,71707,Area Sales Manager,TN,M,03-Jul,Oct-31,relocation out of area,Voluntarily Terminated,0,Sales,LinkedIn,Eleks,Sales Executive,Sales
+10128,62659,Production Technician I,MA,F,04-Feb,11-Nov,Another position,Voluntarily Terminated,0,Production,Diversity Job Fair,Flipkart,Production Team Lead,Production
+10283,54933,Production Technician I,MA,M,04-Feb,Jun-25,military,Voluntarily Terminated,0,Production,Diversity Job Fair,Intel,Operations Technician,IT/IS
+10207,46335,Production Technician I,MA,F,04-Feb,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10046,51044,Production Technician I,MA,M,04-Feb,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10249,61962,Production Technician II,MA,M,04-Feb,Apr-15,more money,Voluntarily Terminated,0,Production,Google Search,Datadog,Product Technician 2,IT/IS
+10280,60340,Production Technician I,MA,M,04-Feb,Sep-27,attendance,Terminated for Cause,-1,Production,Google Search,Intel,Production Supervisor,Production
+10217,74226,Production Technician II,MA,F,04-Feb,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10242,47211,Production Technician I,MA,M,04-Feb,Sep-19,unhappy,Voluntarily Terminated,0,Production,Diversity Job Fair,Amazon,Operations Technician,IT/IS
+10177,53492,Production Technician I,MA,F,04-Feb,Jun-15,Another position,Voluntarily Terminated,0,Production,Google Search,Adobe,Operations Technician,IT/IS
+10103,70468,Area Sales Manager,UT,M,Apr-30,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10078,71966,Production Technician II,MA,F,May-14,Aug-19,unhappy,Voluntarily Terminated,0,Production,LinkedIn,Cisco,Product Technician 3,IT/IS
+10209,59238,Production Technician I,MA,F,May-14,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10251,64738,Production Technician I,MA,M,May-14,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10200,66808,Area Sales Manager,TX,M,May-14,null,N/A-StillEmployed,Active,1,Sales,Employee Referral,,,
+10051,48285,Production Technician I,MA,M,07-Feb,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10056,57583,Production Technician I,MA,F,07-Feb,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10089,250000,President & CEO,MA,F,07-Feb,null,N/A-StillEmployed,Active,1,Executive Office,Indeed,,,
+10052,46120,Production Technician I,MA,M,07-Sep,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10014,58523,Production Technician I,MA,M,Aug-13,02-May,maternity leave - did not return,Voluntarily Terminated,0,Production,LinkedIn,Apple,Production Team Lead,Production
+10293,50274,Production Technician I,MA,F,Aug-13,09-Jan,career change,Voluntarily Terminated,0,Production,CareerBuilder,PWC,Quality consultant,Production
+10129,46998,Production Technician I,MA,M,Aug-13,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10116,83667,Production Manager,MA,M,Aug-16,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10220,68678,IT Support,MA,M,09-May,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10066,52505,Production Technician I,MA,M,Sep-24,04-Jun,Another position,Voluntarily Terminated,0,Production,On-line Web application,Cisco,Operations Technician,IT/IS
+10191,52788,Production Technician I,MA,M,Sep-24,Sep-26,hours,Voluntarily Terminated,0,Production,Indeed,Cisco,Quality Control Technician,IT/IS
+10262,46430,Production Technician I,MA,F,Sep-24,Jun-18,unhappy,Voluntarily Terminated,0,Production,Indeed,Intel,Engineering Technician,IT/IS
+10090,65714,Production Manager,MA,F,10-Feb,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10227,61242,Production Technician I,MA,F,11-May,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10126,86214,Software Engineer,MA,F,11-May,null,N/A-StillEmployed,Active,1,Software Engineering,Indeed,,,
+10106,66074,Production Technician II,MA,F,01-Jul,Mar-31,Another position,Voluntarily Terminated,0,Production,Indeed,PWC,Product Technician 3,IT/IS
+10033,70507,Production Technician II,MA,M,01-Jul,Feb-21,retiring,Voluntarily Terminated,0,Production,LinkedIn,NA,NA,NA
+10145,62810,Production Technician I,MA,F,01-Jul,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10284,61584,Production Technician I,MA,F,01-Jul,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10198,140920,IT Manager - DB,MA,M,Jan-20,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10123,56339,Production Technician I,MA,F,Feb-18,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10102,100416,Software Engineer,MA,M,Feb-18,Apr-15,medical issues,Voluntarily Terminated,0,Software Engineering,Diversity Job Fair,Amazon,SDE 2,Software Engineering
+10037,52984,Production Technician I,MA,F,04-Jan,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10254,63430,Production Technician I,MA,F,04-Jan,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10185,46664,Production Technician I,MA,M,04-Jan,May-25,more money,Voluntarily Terminated,0,Production,Employee Referral,Flipkart,Quality Control Technician,IT/IS
+10030,62425,Production Technician I,MA,F,May-13,Jun-29,unhappy,Voluntarily Terminated,0,Production,LinkedIn,Adobe,Production Associate,Production
+10120,74417,Production Technician II,MA,M,May-13,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10025,72460,Production Technician II,MA,F,May-13,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10096,67237,Production Technician II,MA,F,07-Aug,Sep-15,more money,Voluntarily Terminated,0,Production,LinkedIn,Amazon,Product Technician 3,IT/IS
+10020,63353,Production Technician I,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10206,62061,Production Technician I,MA,F,07-Aug,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10216,57575,Production Technician I,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10042,63695,Area Sales Manager,GA,F,07-Aug,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10261,63108,Production Technician I,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10154,60380,Production Technician I,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10277,53250,Production Technician I,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10137,63450,Production Technician II,MA,M,07-Aug,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10231,65310,Area Sales Manager,CO,M,Aug-19,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10091,52087,Production Technician I,MA,F,Aug-19,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10226,64919,Production Technician I,MA,F,Aug-19,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10139,51908,Production Technician I,MA,F,Aug-19,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10256,49256,Production Technician I,MA,F,Aug-19,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10035,73330,Production Technician II,MA,F,Aug-19,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10071,50923,Production Technician I,MA,F,Sep-30,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10021,47414,Production Technician I,MA,M,Sep-30,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10121,63051,Area Sales Manager,FL,F,Sep-30,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10192,50482,Production Technician I,MA,M,Sep-30,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10236,45069,Production Technician I,MA,F,Sep-30,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10017,77915,Production Manager,MA,F,Sep-30,null,N/A-StillEmployed,Active,1,Production,Website,,,
+10175,74312,Production Manager,MA,M,Sep-30,08-Jul,retiring,Voluntarily Terminated,0,Production,Indeed,Flipkart,Manufacturing Manager,Admin Offices
+10062,59365,Production Technician I,MA,M,Sep-30,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10218,66149,Production Technician II,MA,F,Sep-30,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10157,58939,Production Technician I,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10279,61349,Production Technician I,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10243,53018,Production Technician I,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10110,105688,Software Engineer,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Software Engineering,Google Search,,,
+10203,64375,Production Technician I,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10085,93396,Software Engineer,MA,F,11-Nov,null,N/A-StillEmployed,Active,1,Software Engineering,Indeed,,,
+10074,64246,Production Technician II,MA,M,11-Nov,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10028,138888,IT Manager - Support,MA,M,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10038,64520,Accountant I,MA,M,01-Jun,null,N/A-StillEmployed,Active,1,Admin Offices,Website,,,
+10054,60627,Production Technician I,MA,F,01-Jun,null,N/A-StillEmployed,Active,1,Production,Website,,,
+10225,59472,Production Technician I,MA,M,01-Jun,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10219,45395,Production Technician I,MA,F,01-Jun,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10060,60436,Production Technician I,MA,F,01-Jun,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10296,59124,Production Technician I,MA,F,Feb-17,Feb-25,"no-call, no-show",Terminated for Cause,-1,Production,Google Search,Apple,Production Supervisor,Production
+10287,63025,Production Technician I,MA,F,Feb-17,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10199,103613,Enterprise Architect,CT,M,Feb-17,Feb-19,"no-call, no-show",Terminated for Cause,-1,IT/IS,LinkedIn,,,
+10266,61355,Production Technician I,MA,M,Feb-17,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10281,53060,Production Technician I,MA,M,Feb-17,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10208,46654,Production Technician I,MA,M,Feb-17,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10136,65902,Production Technician II,MA,F,Feb-17,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10303,52674,Production Technician I,MA,F,Mar-31,05-Jan,performance,Terminated for Cause,-1,Production,LinkedIn,Amazon,Quality Control Technician,IT/IS
+10235,54285,Production Technician I,MA,M,Mar-31,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10115,52846,Production Technician I,MA,M,Mar-31,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10272,180000,Director of Sales,RI,F,05-May,null,N/A-StillEmployed,Active,1,Sales,LinkedIn,,,
+10099,65729,Sales Manager,VT,F,05-May,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10307,58273,Area Sales Manager,NV,M,05-Dec,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10140,61809,Area Sales Manager,ID,M,05-Dec,null,N/A-StillEmployed,Active,1,Sales,CareerBuilder,,,
+10063,48495,Production Technician I,MA,M,05-Dec,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10007,62065,Production Technician I,MA,F,05-Dec,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10276,51259,Production Technician I,MA,M,05-Dec,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10210,54237,Production Technician I,MA,F,05-Dec,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10237,66825,Production Technician II,MA,F,05-Dec,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10291,72992,Sales Manager,MA,M,May-18,null,N/A-StillEmployed,Active,1,Sales,Diversity Job Fair,,,
+10245,110000,Database Administrator,MA,F,07-Jul,09-Dec,performance,Terminated for Cause,-1,IT/IS,Google Search,Deloitteÿ,Sr Business Consultant,Sales
+10310,53189,Production Technician I,MA,M,07-Jul,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10003,62910,Production Technician I,MA,F,07-Jul,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10024,92989,Software Engineer,MA,M,07-Jul,null,N/A-StillEmployed,Active,1,Software Engineering,LinkedIn,,,
+10135,65893,Production Technician II,MA,M,07-Jul,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10142,59370,Area Sales Manager,OH,F,07-Jul,09-May,attendance,Terminated for Cause,-1,Sales,CareerBuilder,Dell Technologies,Sr Sales Manager,Sales
+10036,63322,Production Technician II,MA,F,07-Jul,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10263,71776,Production Technician II,MA,F,07-Jul,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10299,56847,Production Technician II,MA,F,07-Jul,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10040,71860,Area Sales Manager,VT,F,Aug-18,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10167,70545,Area Sales Manager,NH,M,Aug-18,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10190,66541,Production Technician II,MA,M,Aug-18,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10105,75188,Production Manager,MA,F,Sep-18,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10161,58370,Area Sales Manager,OR,F,Sep-29,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10271,45046,Production Technician I,MA,F,Sep-29,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10169,56147,Production Technician I,MA,F,Sep-29,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10306,61568,Area Sales Manager,AL,M,Sep-29,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10305,70187,Area Sales Manager,MA,M,Sep-29,Aug-19,Fatal attraction,Terminated for Cause,-1,Sales,Employee Referral,Dell Technologies,Marketing Analyst,IT/IS
+10018,57815,Production Technician I,MA,F,Sep-29,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10067,61656,Production Technician I,MA,F,Sep-29,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10147,63003,Accountant I,MA,M,Sep-29,null,N/A-StillEmployed,Active,1,Admin Offices,Indeed,,,
+10174,60446,Production Technician II,MA,F,Sep-29,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10027,60656,Production Technician II,MA,M,Sep-29,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10184,65288,Production Technician II,MA,M,Sep-29,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10179,50750,Network Engineer,MA,F,Sep-30,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10016,93554,Data Analyst,MA,F,11-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10247,48888,Production Technician I,MA,M,11-Oct,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10212,85028,Sr. Network Engineer,CT,F,11-Oct,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10012,92328,Data Analyst,TX,M,11-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Diversity Job Fair,,,
+10083,92329,Sr. Network Engineer,CT,M,11-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10113,93206,Sr. Network Engineer,MA,M,11-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10194,95660,Software Engineer,MA,F,11-Oct,null,N/A-StillEmployed,Active,1,Software Engineering,LinkedIn,,,
+10104,66738,Production Technician II,MA,F,11-Oct,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10259,93093,Data Analyst,MA,M,12-Jan,05-Jan,performance,Voluntarily Terminated,0,IT/IS,Employee Referral,Deloitte,Data Analyst,IT/IS
+10250,50178,IT Support,MA,M,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10117,63025,Production Technician I,MA,M,01-May,null,N/A-StillEmployed,Active,1,Production,Google Search,,,
+10156,105700,Database Administrator,MA,F,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10041,68829,Area Sales Manager,NC,M,01-May,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10229,88527,Data Analyst,MA,M,01-May,Oct-31,hours,Voluntarily Terminated,0,IT/IS,LinkedIn,Amazon,Data Scientist,IT/IS
+10178,87826,Data Analyst,MA,M,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10094,63381,Production Technician I,MA,F,01-May,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10149,120000,Principal Data Architect,MA,F,01-May,11-Oct,Another position,Voluntarily Terminated,0,IT/IS,LinkedIn,Deloitte,Data Scientist,IT/IS
+10044,75281,Network Engineer,MA,M,01-May,02-Dec,medical issues,Voluntarily Terminated,0,IT/IS,CareerBuilder,Amazon,Network Engineer,IT/IS
+10101,61242,IT Support,MA,F,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10133,70621,IT Support,MA,F,01-May,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10182,49920,Administrative Assistant,MA,F,Feb-16,Apr-15,"no-call, no-show",Terminated for Cause,-1,Admin Offices,Indeed,Datadog,Administrative Assistant,Admin Offices
+10246,114800,Database Administrator,MA,F,Feb-16,Mar-15,"no-call, no-show",Terminated for Cause,-1,IT/IS,Indeed,HData Systems,Data Analyst,IT/IS
+10118,113999,Database Administrator,MA,M,Feb-16,Feb-22,"no-call, no-show",Terminated for Cause,-1,IT/IS,Employee Referral,HData Systems,Sr Database Administrator,IT/IS
+10057,52057,Production Technician I,MA,F,Feb-16,null,N/A-StillEmployed,Active,1,Production,Website,,,
+10162,89883,Data Analyst,MA,F,Feb-16,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10255,61555,Area Sales Manager,IN,F,Feb-16,null,N/A-StillEmployed,Active,1,Sales,Indeed,,,
+10081,106367,Sr. Accountant,MA,F,Feb-16,null,N/A-StillEmployed,Active,1,Admin Offices,Diversity Job Fair,,,
+10151,52599,Network Engineer,MA,F,Feb-16,null,N/A-StillEmployed,Active,1,IT/IS,CareerBuilder,,,
+10112,97999,Database Administrator,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10068,55688,Production Technician I,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,Production,CareerBuilder,,,
+10159,51337,Production Technician I,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10043,89292,Data Analyst,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10111,52249,Production Technician I,MA,M,Mar-30,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10193,83552,Data Analyst,MA,M,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10127,107226,Sr. Network Engineer,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10084,104437,Sr. DBA,MA,M,Mar-30,Jun-16,career change,Voluntarily Terminated,0,IT/IS,Indeed,HData Systems,Data Scientist,IT/IS
+10045,76029,Network Engineer,MA,M,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,Employee Referral,,,
+10076,55315,Production Technician II,MA,F,Mar-30,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10309,53366,Network Engineer,MA,M,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10228,74679,IT Support,MA,M,Mar-30,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10039,51920,Administrative Assistant,MA,F,05-Jan,null,N/A-StillEmployed,Active,1,Admin Offices,Website,,,
+10308,64057,Production Technician I,MA,M,05-Nov,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10098,62957,Production Manager,MA,M,06-Feb,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10214,64995,Production Technician II,MA,F,06-May,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10183,62068,Production Technician I,MA,F,07-May,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10134,93046,Shared Services Manager,MA,M,01-May,null,N/A-StillEmployed,Active,1,Admin Offices,CareerBuilder,,,
+10001,72640,Production Manager,MA,M,Jan-28,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
+10077,62385,Production Technician II,MA,F,05-Nov,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10201,69340,Production Technician II,MA,F,06-Jun,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10180,87565,Sr. Network Engineer,MA,M,Jun-30,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10082,100031,Sr. DBA,MA,F,Jun-30,null,N/A-StillEmployed,Active,1,IT/IS,LinkedIn,,,
+10295,47750,Production Technician I,MA,F,07-Apr,null,N/A-StillEmployed,Active,1,Production,Diversity Job Fair,,,
+10132,56149,Production Technician I,MA,F,07-Jun,null,N/A-StillEmployed,Active,1,Production,LinkedIn,,,
+10029,50373,Production Technician I,MA,M,07-Jun,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10202,63291,Area Sales Manager,TX,M,07-Jun,null,N/A-StillEmployed,Active,1,Sales,Website,,,
+10023,70131,Production Technician II,MA,F,Jul-21,null,N/A-StillEmployed,Active,1,Production,Employee Referral,,,
+10108,110929,BI Director,MA,M,09-Jun,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10232,81584,Senior BI Developer,MA,F,10-Feb,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10239,95920,BI Developer,MA,F,10-Feb,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10086,150290,Data Architect,MA,F,01-Jul,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10079,87921,Senior BI Developer,MA,M,02-Oct,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10172,84903,Senior BI Developer,MA,M,Feb-15,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10197,96820,BI Developer,MA,M,Feb-15,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10173,90100,BI Developer,MA,M,Apr-20,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10234,99020,BI Developer,MA,M,Apr-20,null,N/A-StillEmployed,Active,1,IT/IS,Indeed,,,
+10311,56991,Production Technician I,MA,M,07-Sep,null,N/A-StillEmployed,Active,1,Production,Indeed,,,
